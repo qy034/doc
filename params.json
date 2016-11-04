@@ -1,0 +1,6 @@
+{
+  "name": "Doc",
+  "tagline": "doc-test",
+  "body": "# 如何创建github pages\r\n## 1\r\n登录或者注册github，登录之后点击右上角的“+”号，选择“New repository”菜单，创建仓库，用于存储和博客相关的源文件。\r\n## 2\r\n跳转页面将填写域名信息，现先讲述直接用github提供的域名（用户名+github+io）,在Repository \r\nname对应处填写资源名，其需要使用自己的用户名，每个用户名下面只能建立一个，并且资源命名必须符合这样的规则\r\nusername/username.github.io，之后勾选下面的\"Initialize this repository with a \r\nREADME\" 。然后下一步\r\n## 3\r\n点击右边菜单中的Settings按钮，在跳转到的页面 Update your site 对应处点击“Automatic page generator”按钮，这样就有了一个github自动生成的页面用来测试的时候使用。之后点击继续。\r\n## 4\r\n点击继续之后，来到选择主题界面，选择主题并发布。\r\n## 5\r\n再次点击右侧“Settings”按钮，在页面中点击博客地址链接（或者直接在浏览器输入username.github.io）即可看到自己当前的博客首页了（如果是第一次点击可能会出现404这时候需要等十分钟之后就可以）",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
